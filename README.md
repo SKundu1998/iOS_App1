@@ -1,5 +1,5 @@
 # iOS_App1
 
-Fixing the "Automatically Adjusts Font Size" error by disabling the option, since it requires a Dynamic Type text style.
+Finished the problem shown in the course.
 
-Version:- 0.2a Build 2
+Version:- 0.2b
