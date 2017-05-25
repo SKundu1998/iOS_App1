@@ -1,5 +1,5 @@
 # iOS_App1
 
-The initial commit of the project.
+The initial commit for the next iteration. Now, version names will be stored for all parts.
 
-Version:- 0.1
+Version:- 0.2
