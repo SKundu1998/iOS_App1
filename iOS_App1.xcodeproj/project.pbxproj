@@ -299,6 +299,7 @@
 				7FA418F61ED7154F00D4B74E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
