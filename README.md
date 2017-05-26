@@ -1,5 +1,5 @@
 # iOS_App1
 
-Version 0.3 initial commit, for discussion of image addition.
+Added an image, used proper scaling for display.
 
-Version:- 0.3
+Version:- 0.3a
