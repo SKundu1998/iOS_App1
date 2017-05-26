@@ -1,5 +1,5 @@
 # iOS_App1
 
-Added an image, used proper scaling for display.
+Initial commit for final project, the cat years app.
 
-Version:- 0.3a
+Version:- 0.4
