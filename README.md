@@ -1,5 +1,5 @@
 # iOS_App1
 
-Printed "Hello World" in the label text when button is tapped.
+Print textField text in label upon button tap.
 
 Version:- 0.2c

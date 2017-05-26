@@ -10,9 +10,10 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var textField: UITextField!
     @IBOutlet weak var label: UILabel!
     @IBAction func buttonTapped(_ sender: Any) {
-        label.text = "Hello World"
+        label.text = textField.text
     }
     override func viewDidLoad() {
         super.viewDidLoad()
