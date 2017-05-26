@@ -1,5 +1,5 @@
 # iOS_App1
 
-Initial commit for final project, the cat years app.
+Completed the cat years app, as asked. Used a single line statement to obtain the answer.
 
-Version:- 0.4
+Version:- 0.4a

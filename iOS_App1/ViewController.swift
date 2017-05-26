@@ -10,6 +10,13 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var textAge: UITextField!
+    @IBOutlet weak var labelAge: UILabel!
+    
+    @IBAction func buttonSubmitTapped(_ sender: Any) {
+        labelAge.text = String(Int(textAge.text!)!*7)
+    }
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
