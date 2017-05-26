@@ -1,5 +1,5 @@
 # iOS_App1
 
-Finished the given problem question.
+Version 0.3 initial commit, for discussion of image addition.
 
-Version:- 0.2c
+Version:- 0.3
