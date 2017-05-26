@@ -1,5 +1,5 @@
 # iOS_App1
 
-Completed the cat years app, as asked. Used a single line statement to obtain the answer.
+Final version of the application.
 
-Version:- 0.4a
+Version:- 1.0
