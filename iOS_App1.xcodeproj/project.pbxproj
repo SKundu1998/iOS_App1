@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		7F8B9B2C1ED89AB20065A53E /* hedgehog.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7F8B9B2B1ED89AB20065A53E /* hedgehog.jpg */; };
 		7FA418E61ED7154F00D4B74E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FA418E51ED7154F00D4B74E /* AppDelegate.swift */; };
 		7FA418E81ED7154F00D4B74E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FA418E71ED7154F00D4B74E /* ViewController.swift */; };
 		7FA418EB1ED7154F00D4B74E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7FA418E91ED7154F00D4B74E /* Main.storyboard */; };
@@ -16,7 +15,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		7F8B9B2B1ED89AB20065A53E /* hedgehog.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hedgehog.jpg; sourceTree = "<group>"; };
 		7FA418E21ED7154F00D4B74E /* iOS_App1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iOS_App1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7FA418E51ED7154F00D4B74E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7FA418E71ED7154F00D4B74E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -59,7 +57,6 @@
 				7FA418E51ED7154F00D4B74E /* AppDelegate.swift */,
 				7FA418E71ED7154F00D4B74E /* ViewController.swift */,
 				7FA418E91ED7154F00D4B74E /* Main.storyboard */,
-				7F8B9B2B1ED89AB20065A53E /* hedgehog.jpg */,
 				7FA418EC1ED7154F00D4B74E /* Assets.xcassets */,
 				7FA418EE1ED7154F00D4B74E /* LaunchScreen.storyboard */,
 				7FA418F11ED7154F00D4B74E /* Info.plist */,
@@ -128,7 +125,6 @@
 			files = (
 				7FA418F01ED7154F00D4B74E /* LaunchScreen.storyboard in Resources */,
 				7FA418ED1ED7154F00D4B74E /* Assets.xcassets in Resources */,
-				7F8B9B2C1ED89AB20065A53E /* hedgehog.jpg in Resources */,
 				7FA418EB1ED7154F00D4B74E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
