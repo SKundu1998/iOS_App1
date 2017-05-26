@@ -10,10 +10,12 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBAction func buttonTapped(_ sender: Any) {
+        print("Hello World!")
+    }
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        print("Hello World!")
     }
 
     override func didReceiveMemoryWarning() {
